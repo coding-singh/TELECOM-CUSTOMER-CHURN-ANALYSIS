@@ -36,7 +36,7 @@ Over 90% churn is associated with Internet and phone services, particularly with
 ### 🔍 Predictive Model:
 Using Random Forest, I developed a predictive model with 85% accuracy to forecast future churners, enabling proactive customer retention strategies.
 
-##🚀 Business Outcome:
+## 🚀 Business Outcome:
 Created a dynamic Power BI dashboard that highlights churn metrics, identifies high-risk groups, and empowers data-driven marketing decisions.
 Potential impact: estimated 5% reduction in churn, leading to significant revenue protection.
 This project gave me the chance to dive deep into customer behavior and understand the patterns behind churn. It’s a rewarding journey to see data transform into actionable insights!
