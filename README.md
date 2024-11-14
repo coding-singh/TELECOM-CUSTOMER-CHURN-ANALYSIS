@@ -1,8 +1,8 @@
 # TELECOM-CUSTOMER-CHURN-ANALYSIS
 
-🌟 Excited to Share My Latest Project: Telecom Customer Churn Analysis! 🚀
+#🌟 Excited to Share My Latest Project: Telecom Customer Churn Analysis! 🚀
 
-Using SQL Server, Power BI, and Machine Learning, I built a comprehensive Telecom Customer Churn Analysis solution. This project combines data insights, ETL processes, visualization, and predictive modeling to support targeted strategies for customer retention.
+I built a comprehensive Telecom Customer Churn Analysis solution using SQL Server, Power BI, and Machine Learning. This project combines data insights, ETL processes, visualization, and predictive modeling to support targeted strategies for customer retention.
 
 📊 Project Highlights:
 This end-to-end project demonstrates my skills across the full data pipeline, from ETL to prediction:
